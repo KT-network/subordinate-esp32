@@ -1,0 +1,40 @@
+{
+    "type": "verifyDevicesInfo",
+    "data": {
+        "wifi": {
+            "dhcp": 1,
+            "ssid": "TP-LINK_DD99",
+            "pwd": "123123123",
+            "ip": [
+                192,
+                168,
+                0,
+                159
+            ],
+            "maskCode": [
+                255,
+                255,
+                255,
+                0
+            ],
+            "gateway": [
+                192,
+                168,
+                0,
+                254
+            ],
+            "dns": [
+                192,
+                168,
+                0,
+                254
+            ]
+        },
+        "mqtt": {
+            "ssid": "TP-LINK_DD99",
+            "pwd": "123123123",
+            "host": "",
+            "port": ""
+        }
+    }
+}
